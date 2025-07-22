@@ -10,6 +10,9 @@
 ## f. Distribution of total casualties by road surface
 ## g. Reltation between casualties by area/location & by day/light
 
+https://github.com/MtitiTendai/Road-Accident-Analysis/blob/main/Screenshot%20(13).png
+Dashboard
+
 ## Stakeholders Involved
 - Ministry of Transport
 - Road transport department
