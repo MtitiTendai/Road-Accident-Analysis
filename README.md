@@ -27,7 +27,7 @@ https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?us
 https://docs.google.com/spreadsheets/d/1mBymf9hRZP44XQtImZAc4lzU0GEgt5YP/edit?usp=drive_link&ouid=104351470502605920661&rtpof=true&sd=true
 
 # Road Accident Dashboard
-<a href= https://github.com/MtitiTendai/Road-Accident-Analysis/blob/main/Screenshot%20(13).png>Road Accident Dashboard</a>
+![Uploading Screenshot (13).png…](https://github.com/MtitiTendai/Road-Accident-Analysis/blob/main/Screenshot%20(13).png)
 
 ## Steps taken in Analysis
 
